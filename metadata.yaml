@@ -1,0 +1,31 @@
+_repo: Index-of-the-Project-Gutenberg-Memoirs-of-Casanova_57691
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Casanova, Giacomo
+    aliases:
+    - Seingalt, Jacques Casanova de
+    - Seingalt, Giacomo Girolamo Casanova de
+    birthdate: 1725
+    deathdate: 1798
+    gutenberg_agent_id: '1075'
+    url: http://www.gutenberg.org/2009/agents/1075
+    wikipedia: http://en.wikipedia.org/wiki/Giacomo_Casanova
+  editor:
+    agent_name: Widger, David
+    birthdate: 1932
+    gutenberg_agent_id: '1961'
+    url: http://www.gutenberg.org/2009/agents/1961
+description: ''
+gutenberg_issued: '2018-08-14'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '57691'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Index of the Project Gutenberg Memoirs of Casanova
+url: http://www.gutenberg.org/ebooks/57691
